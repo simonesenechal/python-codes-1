@@ -12,5 +12,3 @@ if (reta1 + reta2) > reta3 and (reta1 + reta3 ) > reta2 and (reta2 + reta3) > re
     print(f'Neste caso podemos formar um triângulo.')
 else:
     print(f'Não formamos um triângulo com essas medidas.')
-    
-
